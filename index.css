@@ -1,0 +1,156 @@
+body {
+    font-family: "Avenir Next", "Hiragino Kaku Gothic ProN W3", sans-serif;
+  }
+.header{
+    background-color:#3BB300;
+    height: 30px;
+    width: 1000px;
+    color: white;
+}
+.header-logo{
+    font-size: 12px; 
+    padding: 5px 10px;
+    float: left;
+    font-weight: bold;
+}
+.header-list li{
+    float: right;
+    padding: 5px 10px;
+    font-size: 12px;
+    list-style: none;
+    font-weight: bold;
+}
+.top-container{
+    height: 450px;
+    width: 1000px;
+    background-color: #f9f9f9;
+    padding-top: 40px;
+}
+.left-top-container{
+    height: 450px;
+    width: 600px;
+    padding-left:10px;
+    float: left;
+}
+.left-top-container h1{
+    text-align: center;
+}
+.primarybtn-txt{
+    background-color: #f26e00;
+    width: 550px;
+    text-align: center;
+    color: white;
+    font-size: 22px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin-bottom: 20px;
+    border:2px solid #f26e00;
+    font-weight: bold;
+    display: inline-block;
+    text-decoration: none;
+}
+.secondarybtn-txt{
+    background-color: #fff;
+    width: 550px;
+    text-align: center;
+    color: #1155cc;
+    font-size: 22px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    border:2px solid #1155cc;
+    font-weight: bold;
+    display: inline-block;
+    text-decoration: none;
+}
+.rigth-top-container img{
+    height: 300px;
+    width: 350px;
+    position: relative;
+    margin-top: 50px;
+    
+}
+.middle-container{
+    width: 1000px;
+    height: 600px;
+}
+.container-title p{
+    color: #3BB300;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.article-sample{
+    float: left; 
+    width: 33%;
+    position: relative;
+}
+.article-image img{
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.article-text p{
+    font-size: 15px;
+    display: inline-block;
+    margin-top: 8px;
+    margin-left: 50px;
+}
+.btn-container{
+    width: 1000px;
+    height: 40px;
+    text-align: center;
+}
+.btn-primary{
+    background-color: #f26e00;
+    width: 550px;
+    text-align: center;
+    color: white;
+    font-size: 22px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    border:2px solid #f26e00;
+    font-weight: bold;
+    display: inline-block;
+    text-decoration: none;
+}
+.btn-secondary{
+    background-color: #fff;
+    width: 550px;
+    text-align: center;
+    color: #1155cc;
+    font-size: 22px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    border:2px solid #1155cc;
+    font-weight: bold;
+    display: inline-block;
+    text-decoration: none;
+}
+.bottom-container{
+    height: 700px;
+    width: 1000px;
+    padding-top: 20px;
+}
+.text-list{
+    font-weight: bold;
+}
+.footer{
+    background-color: #f9f9f9;
+    height: 30px;
+    width: 1000px;
+}
+.footer-list li{
+    float: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 12px;
+    list-style: none;
+    font-weight: bold;
+    color: #1C53C3;
+    width: 25%;
+}
